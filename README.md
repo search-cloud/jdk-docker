@@ -13,6 +13,10 @@ jdk docker image based on Alpine Linux with a glibc-2.25 and Oracle Java 8.
 Example:
 
 ```
+docker pull asion/alpine-java
+```
+or:
+```
 docker build -t asion/alpine-java:8 .
 ```
 or:
